@@ -136,18 +136,10 @@ Models were evaluated using:
 - GridSearchCV
 - RandomizedSearchCV
 
----
 
-## Repository Structure
 
-```
-├── Adult_Income_Classification.ipynb
-├── adult.csv
-├── README.md
-└── images/
-```
 
----
+
 
 ## Results
 
